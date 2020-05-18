@@ -11,4 +11,4 @@ description: Some description.
 
 # About
 
-김대훈 블로그 그 첫번째 시작 2020-05-17
+항상 밝고 긍정적인 김대훈의 일기 블로그.
