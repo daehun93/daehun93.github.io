@@ -7,11 +7,7 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/가족2.jpg" alt="Thiago Rossener" width="200">
-
-# 가족
-
-<img class="img-rounded" src="/assets/img/uploads/대훈1.jpg" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/가족2.png" alt="Thiago Rossener" width="200">
 
 # About
 
@@ -19,6 +15,6 @@ description: Some description.
 
 金大訓
 
-<img class="img-rounded" src="/assets/img/uploads/대훈2.jpg" alt="Thiago Rossener" width="200">
-
 항상 밝고 긍정적인 김대훈의 일기 블로그.
+
+<img class="img-rounded" src="/assets/img/uploads/대훈2.jpg" alt="Thiago Rossener" width="200">
