@@ -1,7 +1,7 @@
 # Site Settings
-name: DaehunBlog
-title: DaehunBlog| A blog theme for Jekyll
-description: Welcome DaehunBlog.
+name: 김대훈
+title: DaehunBlog
+description: 개발자 대훈이의 자유로운 블로그
 tags:
   - blog
   - template
@@ -20,6 +20,11 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+
+comments:
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: daehun # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # Social Media Settings
 # Remove the item if you don't need it
