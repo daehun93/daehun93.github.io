@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
+title: Book
+slug: book
 description: A category for life related posts.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Work
-slug: work
-description: A category for work related posts.
+title: Movie
+slug: movie
+description: A category for movie related posts.
 ---
