@@ -9,7 +9,9 @@ tags:
   - theme
   - netlify
 email: daehun93@naver.com
-disqus_username: daehun
+disqus_username: daehun93
+disqus_url: https://daehun93.disqus.com/
+disqus_id: daehun93
 show_hero: true
 menu:
   - title: Home
