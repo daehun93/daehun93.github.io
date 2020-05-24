@@ -16,10 +16,16 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: DaeHun
     url: /about
-  - title: Contact
+  - title: To Hun
     url: /contact
+  - title: Code
+    url: /category/code
+  - title: Project
+    url: /category/project        
+  - title: Movie
+    url: /category/movie
   - title: Feed
     url: /feed.xml
 
