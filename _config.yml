@@ -16,9 +16,9 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: DaeHun
+  - title: About
     url: /about
-  - title: To Hun
+  - title: To Me
     url: /contact
   - title: Code
     url: /category/code
