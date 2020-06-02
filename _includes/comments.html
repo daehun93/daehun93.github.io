@@ -2,9 +2,9 @@
 {% if site.disqus_username %}
 
 <section class="comments">
-    <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-width="100%"></div>
     <h3>{{ site.translations.text.comments | default: "Comments" }}</h3>
     <div id="disqus_thread"></div>
+    <div class="fb-comments" data-href="{{site.url}}{{page.url}}" data-numposts="5" data-width="100%"></div>
 </section>
 <script type="text/javascript">
     /**
