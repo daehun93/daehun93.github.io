@@ -1,6 +1,7 @@
 <!-- 대훈 페북 댓글 추가 -->
+{% if page.comments != 'no' %}
 <div class="fb-comments" data-href="{{ site.url}}{{page.url}}" data-numposts="5" data-width="100%"></div>
-
+{% end if %}
 
 {% if site.disqus_username %}
 
