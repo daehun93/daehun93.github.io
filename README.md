@@ -1,20 +1,8 @@
-## What is it?
+## 대훈이의 자유로운 개발 블로그 입니다.
 
-A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
-
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+자유롭게 읽고 놀다 가세요.
 
 
-## Donation
-
-Did you like my work? Buy me a beer 😁🍺
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
-
-## Author
-
-[Thiago Rossener](https://rossener.com/)
-
-## License
+## Template License
 
 *Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
