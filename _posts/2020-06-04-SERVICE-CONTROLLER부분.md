@@ -22,6 +22,10 @@ author: 김대훈
 > 이전에 소개글 참고
 
 <https://daehun93.github.io/%EC%9E%90%EC%A0%84%EA%B1%B0%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EB%B0%B1%EA%B0%9C%EB%B0%9C2/>
+<!-- SCM Music Player https://www.scmplayer.net -->
+<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
+data-config="{'skin':'skins/simpleBlack/skin.css','volume':50,'autoplay':true,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'TEST','url':'https://www.youtube.com/watch?v=uCOMvwyHQdE'}]}" ></script>
+<!-- SCM Music Player script end -->
 
 
 ### SERVICE 부분과 CONTROLLER부분 건들어보자
