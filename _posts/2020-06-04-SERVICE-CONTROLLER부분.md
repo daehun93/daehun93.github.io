@@ -22,7 +22,7 @@ author: 김대훈
 > 이전에 소개글 참고
 
 <https://daehun93.github.io/%EC%9E%90%EC%A0%84%EA%B1%B0%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EB%B0%B1%EA%B0%9C%EB%B0%9C2/>
-<iframe width="1" height="1" src="https://www.youtube.com/watch?v=uCOMvwyHQdE&t=1067s" frameborder="0" allowfullscreen></iframe>
+
 
 ### SERVICE 부분과 CONTROLLER부분 건들어보자
 
