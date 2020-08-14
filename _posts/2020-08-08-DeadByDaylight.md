@@ -61,7 +61,7 @@ author: 김대훈
 
 이 사진처럼 발전기가 맵 곳곳에 숨어있다.
 
-이 발전기를 생존자들이 찾아서 4개 가동시키면
+이 발전기를 생존자들이 찾아서 5개 가동시키면
 
 탈출 가능하다.
 
@@ -242,3 +242,6 @@ WHY? 적응이 끝나면 공포게임이 아니다.
 다만 다른 게임들보다 더 신규 유저와 기존 유저를 계속해서 
 
 런칭하고 잡아 둘 방법을 모색하고 신경 써야 한다는 건 확실한 게임.
+
+
+<iframe width="50" height="50" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/482923884&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/halloween2018" title="Halloween 2018" target="_blank" style="color: #cccccc; text-decoration: none;">Halloween 2018</a> · <a href="https://soundcloud.com/halloween2018/halloween-movie-2018-theme-song" title="John Carpenter - HALLOWEEN (2018) Theme" target="_blank" style="color: #cccccc; text-decoration: none;">John Carpenter - HALLOWEEN (2018) Theme</a></div>
