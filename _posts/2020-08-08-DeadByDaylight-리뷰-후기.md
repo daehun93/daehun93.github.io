@@ -1,7 +1,7 @@
 ---
 date: 2020-08-08 24:00:00
 layout: post
-title: DeadByDaylight 공포 게임 후기 및 리뷰 (심신미약 보지말것)
+title: DeadByDaylight-후기-리뷰-평점 (심신미약 보지말것)
 subtitle: 공포 호러 게임 DeadByDaylight후기
 description: 정말 잘 만들었다고 생각했지만 생각보다 흥행하지 못한 공포 게임
 image: /assets/img/work/데바데1.jpg
