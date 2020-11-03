@@ -1,7 +1,7 @@
 ---
 date: 2020-11-01 24:00:00
 layout: post
-title: Phasmophobia-리뷰-후기
+title: Phasmophobia-파스모포비아-리뷰-후기
 subtitle: Phasmophobia-유령공포증-귀신탐험대가 되어보자
 description: 최근 나온 공포게임 중 가장 스릴있던 게임-파스모포비아
 image: /assets/img/work/파시0.jpg
