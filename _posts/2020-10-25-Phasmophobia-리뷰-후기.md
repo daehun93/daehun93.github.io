@@ -1,5 +1,5 @@
 ---
-date: 2020-11-01 24:00:00
+date: 2020-10-25 24:00:00
 layout: post
 title: Phasmophobia-파스모포비아-리뷰-후기
 subtitle: Phasmophobia-유령공포증-귀신탐험대가 되어보자
