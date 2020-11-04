@@ -2,7 +2,7 @@
 date: 2020-11-01 24:00:00
 layout: post
 title: InSilence-인사일런스-Review-후기-공포게임에 대한 분석
-subtitle: InSilence-인사일런스-소리내면 죽는다
+subtitle: 소리내면 죽는다
 description: 출시된지 한달도 안된 따끈따끈한 신작 스릴러 게임
 image: /assets/img/work/인사1.jpg
 optimized_image: /assets/img/work/인사2.jpg
@@ -17,28 +17,28 @@ tags:
 author: 김대훈
 ---
 
-## 출시된 지 한달도 안된 따끈따끈한 신작 스릴러 게임
+## 한달도 안된 따끈한 신작 스릴러 게임
 
 Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 한다.
 
-또 스릴러 게임을 소개하고 후기를 작성하니 벌써 들뜬다.
+또 스릴러 게임을 소개하고 후기를 작성할 생각하니 벌써 즐겁다.^^
 
 ![1](../assets/img/work/인사7.jpg)
-스팀에서 최고 인기제품에 당당히 첫 페이지에 올라와 있는 Insilence
+스팀 최고 인기제품 페이지에서 당당하게 올라와 있는 Insilence
 
 배포 날짜를 보면 10월 17일 
 
-벌써부터 아시아 유럽 일본에서는 인기를 조금씩 차지하고 있다.
+벌써부터 유럽, 일본, 중국에서는 인기를 조금씩 차지하고 있다.
 
 게임에 접속해보면 우리나라 사람들보다 외국인들이 훨씬 많고
 
-아직까지 한국에서 인기는 그 닥 많지는 않다.
+아직까지 한국에서 인기는 많지 않다.
 
-최근 공포게임을 하면서 느낀 생각과 
+ANYWAY, 최근 공포게임을 하면서 느낀 생각과 
 
 평점부터 리뷰까지 간략하게 작성하겠다.
 
-## 공포게임이 왜 재밌는가 -주관적인 분석
+## 공포게임이 왜, 어떻게 재밌을까 -주관적인 분석
 
 "롤러코스터를 타는 것, 공포영화를 보는 것"
 
@@ -54,13 +54,13 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 공포 란 어디서 오는 것일까 
 
-여기서 내 생각은 불안이다.
+불안감이다.
 
-죽을 수 있다는 불안감. 스트레스 모든 것이 합쳐진 게 공포다.
+죽을 수 있다는 불안감, 스트레스 모든 것이 합쳐진 게 공포다.
 
-(고소공포증을 아직도 가지고 있으니 김대훈은 겁쟁이가 분명함)
+(고소공포증을 아직도 가지고 있는 김대훈은 겁쟁이가 분명함)
 
-롤러코스터와 자이러 드롭 등 놀이기구들은 
+롤러코스터와 자이러 드롭 등 놀이기구들의
 
 기계가 잘못 되면 죽는다는 공포에 아직도 완전히 사로잡혀 있다.
 
@@ -72,19 +72,21 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 예를 들어서 설명해 보겠다.
 
-먼저 설명할 요소들은
+내가 생각한 공포를 심는 요소들은
 
 첫번째 "혼자만 남게 하는 심리적 불안감"
 
-두번째 "적에게 대항할 수 없는 무능함을 이끌어내는 스트레스"
+두번째 "적에게 대항할 수 없는 무능함에서 나오는 스트레스"
 
 세번째 "머릿속으로 위험을 감지하게 하는 청각과 시각적 요소"
 
 멀티 플레이와 솔로 플레이 게임들 모두 공통적으로 가지고 있는 요소이다.
 
-먼저 멀티게임의 경우 함께 힘을 합쳐서 공포를 이겨내는 것은 표면적으로
+먼저 멀티게임의 경우 함께 힘을 합쳐서 
 
-보여주는 요소이고 사실은 내재된 게임의 흥미 유발 시스템은
+공포를 이겨내는 것은 표면적으로 보여주는 요소이고 
+
+사실 내재된 게임의 흥미 유발 시스템은
 
 ### "여럿이 있다가 혼자만 남게 해서 주는 심리적 불안감" 에서 재미가 온다.
 
@@ -95,7 +97,9 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 협력하면서 게임을 진행한다. "우리는 사실 여기서 속고 있는 것이다."
 
-공포라는 심리를 이끌어 내기 위해서 "혼자만 남았을 때 불안감을 발생시키기 위해"
+"공포라는 심리를 이끌어 내기 위해서"
+
+"혼자만 남았을 때 불안감을 발생시키기 위해"
 
 ![3](../assets/img/work/데바데4.jpg)
 ![4](../assets/img/work/인사3.jpg)
@@ -105,15 +109,17 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 살인마는 절대 한번에 다수를 죽이는 능력을 가지지 않는다.
 
-팀원 한명이 고통스럽게 혹은 잔혹하게 죽는 모습을 다른 팀원들에게 상기시키면서
+팀원 한명이 고통스럽게 혹은 잔혹하게 죽는 모습을 
 
-"그 장면이 나에게 올 수 있다는 불안감을 더 심어 주기 위해서"
+다른 팀원들에게 상기시키면서
+
+#### "그 장면이 나에게 올 수 있다는 불안감을 더 심어 주기 위해서"
 
 살인마는 한 턴에 한 명을 죽인다.
 
-### 두번째 공포게임의 특징인 "나의 무능함에서 나오는 스트레스"
+### 두번째 특징인 "나의 무능함에서 나오는 스트레스"
 
-공포게임의 특징이다. 
+공포게임의 두번째 요소이다. 
 
 내가 만약 대 천사 미카엘의 지팡이를 손에 쥐고있거나
 
@@ -141,9 +147,9 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 발전기를 수리해서 이장소에서 도망치는게 승리조건인 데바데
 
-### 세번째 "머릿속에서 공포를 느끼게 하는 시각과 청각요소"
+### 세번째 "머릿속에서 공포를 상기시키는 시각과 청각요소"
 
-멀티 공포 게임들을 즐기다 보면 내가 위험한 상황에 닥칠 것이다
+멀티 공포 게임들을 즐기다 보면 "내가 위험한 상황에 닥칠 것이다"
 
 라는 심리적 불안감을 시각과 청각적으로 전달한다.
 
@@ -151,27 +157,29 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 심장 소리로 착각할 수 있을 만한 사운드를 제공함으로써
 
-우리의 심장이 차분하게 뛰고있어도 빠르게 뛰고있다는 착각을
+우리의 심장이 차분하게 뛰고있어도 빠르게 뛰고있다고
 
 청각적인 요소로 착각하게끔 만든다.
 
 마치 클럽이나 감성주점에서 빠르고 강렬한 비트들이 괜히
 
-내 심장이 강렬하게 뛰고있다는 착각을 주는 것 처럼
+내 심장이 강렬하게 뛰고있다는 착각을 주는 것 처럼 또한,
 
-심장소리가 아닌 차분하고 잔잔하게 흘러나오는 배경음악은
+심장소리가 아닌 차분하고 잔잔하게 흘러나오는 배경음악들은
 
-청각적인 요소를 이용해 이 상황에 사용자를 완전히 몰입 시키기도 한다.
+청각적인 요소를 이용해 주어진 상황에 사용자를 완전히 몰입 시키기도 한다.
 
-이러한 청각적인 요소들은 공포게임에서 분명히 중요한 위치를 차지하고 있다.
+이러한 요소들은 공포게임에서 분명히 중요한 위치를 차지하고 있다.
 
-(지금 이 글의 배경음악 처럼)
+(지금 이 글의 배경음악 처럼ㅎㅎ ㅈㅅ)
 
-시각적인 요소들은 항상 피를 상징하는 빨간색이나 어둠을 상징하는 검은색을
+다음 시각적인 요소들은 피를 상징하는 빨간색이나 
 
-뛰는 경우가 많은데 빨간색을 보면 피를 연상하여 불안감을 띄우고
+어둠을 상징하는 검은색을 뛰는 경우가 많은데 
 
-검은색을 보면 어둠과 갑자기 예상할 수 없는 불안감을 제공함으로써 
+빨간색을 보면 피를 연상하여 불안감을 띄우고
+
+검은색을 보면 갑자기 예상할 수 없는 불안감을 제공함으로써 
 
 공포게임들은 검정색과 빨간색을 적절히 활용하여 시각적인 요소로 
 
@@ -183,7 +191,7 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 인사일러스 게임에 대해 이야기 해보자
 
-## 일단 스릴러닌깐 별점 3개먹고 들어가자
+## 일단 스릴러닌깐 별점 3개는 먹고 들어가자
 
 평점 ★★★★☆
 
@@ -195,7 +203,7 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 확실히 스릴러 게임의 사운드와 긴장감은 존재하기 때문에 재미있다.
 
-개인적으로 우리나라 유저들에게도 사랑받아서 더 큰 인기를 누렸으면 좋겠다.
+개인적으로 우리나라 유저들에게도 더 큰 인기를 누렸으면 좋겠다.
 
 ## 게임리뷰 - 소리내면 죽는다.
 
@@ -203,7 +211,7 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 스릴러 게임들은 대부분 술래잡기와 비슷한 양상을 띄는데
 
-이 게임 또한 강한 술래 1명과 약한 생존자들로 스릴을 만들어 낸다.
+이 게임 또한 술래 1명과 약한 생존자들로 스릴을 만들어 낸다.
 
 이 게임의 승리조건은 살인마는 생존자를 다 죽이는 것이고
 
@@ -234,11 +242,15 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 영화 - 콰이어트 플레이스의 괴물과 비슷함
 
+아무튼 게임방식은 처음하는 사람도 쉽게 플레이 할 만큼
+
+이해하기 쉽고 단순하다.
+
 ### 게임의 개선방향
 
 요즘 출시되는 게임들은 사용자들의 마이크 셋팅을 필수로 요구하는 듯 하다.
 
-파스모포비아도 그렇고 협력게임에서 헤드셋은 선택이 아닌 필수.
+파스모포비아도 그렇고.. 협력게임에서 헤드셋은 선택이 아닌 필수.
 
 일단 한국인 유저가 매우 적은 것에 안타까운 점.
 
@@ -252,7 +264,7 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 추후 업데이트가 되겠지만 현재 괴물이 너무나도 유리한 점
 
-(이런 건 인간 유저들이 금방금방 꼼수를 찾아내긴 한다)
+(이런 건 인간 들이 금방금방 꼼수를 찾아내긴 한다)
 
 청각만 발달된 괴물이 있다면 시각만 있는 괴물이 나온다던 지
 
@@ -266,5 +278,4 @@ Phasmophobia에 이어서 곧바로 다른 스릴러 게임을 소개하고자 �
 
 
 
-
-<iframe width="50" height="50" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/482923884&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enis1-1" title="Halloween 2018" target="_blank" style="color: #cccccc; text-decoration: none;">Halloween 2018</a> · <a href="https://soundcloud.com/enis1-1/cry" title="Cry (free downloads)" target="_blank" style="color: #cccccc; text-decoration: none;">Cry (free downloads)</a></div>
+<iframe width="50" height="50" scrolling="yes" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216125770&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/enis1-1" title="Enis1" target="_blank" style="color: #cccccc; text-decoration: none;">Enis1</a> · <a href="https://soundcloud.com/enis1-1/cry" title="Cry (free downloads)" target="_blank" style="color: #cccccc; text-decoration: none;">Cry (free downloads)</a></div>
