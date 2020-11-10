@@ -28,6 +28,8 @@ menu:
     url: /category/movie
   - title: Feed
     url: /feed.xml
+  - title: DearYou
+    url: http://dearyou.tk/ 
 
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
