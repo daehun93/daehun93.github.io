@@ -29,7 +29,7 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: DearYou
-    url: http://dearyou.tk/ 
+    url: https://dearyou.tk/ 
 
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
