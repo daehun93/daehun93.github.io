@@ -13,6 +13,7 @@ disqus_username: daehun93
 disqus_url: https://daehun93.disqus.com/
 disqus_id: daehun93
 show_hero: true
+future: true
 menu:
   - title: Home
     url: /
@@ -28,7 +29,6 @@ menu:
     url: /category/movie
   - title: Feed
     url: /feed.xml
-future: true
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
